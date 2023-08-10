@@ -21,9 +21,9 @@
                 </b>
               </a>
               & Themed by
-              <a href="https://github.com/obsidianext/hexo-theme-obsidianext">
+              <a href="https://github.com/CodingJellyfish/hexo-theme-aurora-jellyfished/">
                 <b class="font-extrabold border-b-2 border-ob hover:text-ob">
-                  Aurora v{{ themeConfig.version }}
+                  Aurora Jellyfished v{{ themeConfig.version }}
                 </b>
               </a>
               .

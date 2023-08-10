@@ -36,8 +36,8 @@ registerScrollSpy(app)
 app.mount('#app')
 
 console.log(
-  '%c Aurora is developed by TriDiamond%c',
+  '%c Aurora Jellyfished is developed by TriDiamond and modified by CodingJellyfish %c',
   'background:#24272A; color:#73ddd7',
   '',
-  'https://github.com/auroral-ui/hexo-theme-aurora'
+  'https://github.com/CodingJellyfish/hexo-theme-aurora-jellyfished/'
 )

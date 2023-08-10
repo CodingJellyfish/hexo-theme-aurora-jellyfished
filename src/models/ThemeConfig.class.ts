@@ -227,15 +227,15 @@ export class Theme implements ObTheme {
   profile_shape = 'diamond'
   feature = true
   gradient = {
-    color_1: '#24c6dc',
-    color_2: '#5433ff',
-    color_3: '#ff0099'
+    color_1: '#ff0077',
+    color_2: '#ff0077',
+    color_3: '#7700ff'
   }
   header_gradient_css =
-    'linear-gradient(130deg, #24c6dc, #5433ff 41.07%, #ff0099 76.05%)'
+    'linear-gradient(130deg, #ff0077, #ff0077 41.07%, #7700ff 76.05%)'
   background_gradient_style = {
     background:
-      'linear-gradient(130deg, #24c6dc, #5433ff 41.07%, #ff0099 76.05%)',
+      'linear-gradient(130deg, #ff0077, #ff0077 41.07%, #7700ff 76.05%)',
     '-webkit-background-clip': 'text',
     '-webkit-text-fill-color': 'transparent',
     '-webkit-box-decoration-break': 'clone',
